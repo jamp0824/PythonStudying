@@ -11,5 +11,4 @@ print(type(b))
 
 my_age = 32
 
-print("안녕 나는 "+my_age+"살이고 파이썬 공부중이야!")
 print("안녕 나는 "+str(my_age)+"살이고 파이썬 공부중이야!")
